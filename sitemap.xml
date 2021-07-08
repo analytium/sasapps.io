@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://sasapps.io/datacontroller-on-azure</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/modernising-legacy-sas-scl-af-applications</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/sas-streamed-apps</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/sasjs-workshops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/using-git-with-sas</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/sample-md-file/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/tags/af-scl/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/tags/apps/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/tags/data-governance/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/tags/git/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/tags/microsoft-azure/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/tags/sas/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/tags/sa-sjs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/about-us/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/contact-us/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/products/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/solutions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sasapps.io/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
